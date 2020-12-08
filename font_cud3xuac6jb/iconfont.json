@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1350119",
+      "name": "收藏",
+      "font_class": "collection",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2811145",
+      "name": "待付款",
+      "font_class": "daifukuan",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "5967597",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "10299086",
+      "name": "已支付",
+      "font_class": "yizhifu",
+      "unicode": "e524",
+      "unicode_decimal": 58660
+    }
+  ]
+}
